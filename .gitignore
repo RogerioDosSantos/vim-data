@@ -1,7 +1,6 @@
-vim/vim/plugged/
-vim/vim/.netrwhist
-vim/vim/bin/
-vim/vim/doc/
-vim/vim/plugin/
-vim/vim/.netrwbook
-
+vim/plugged/
+vim/.netrwhist
+vim/bin/
+vim/doc/
+vim/plugin/
+vim/.netrwbook
